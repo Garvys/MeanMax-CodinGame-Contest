@@ -73,4 +73,7 @@ I decided to modelise the opponents with a *really* simple dummy that follows th
 ## Conclusion
 
 Awesome contest! I learned a lot again! It is so sad I lost too much time debugging that I couldn't try new things.
-See you for the next contest! :) 
+
+Basically a lot of fun and many things learned! Thanks a lot to everyone involved in making this possible from creators, to participants!
+
+See you for the next contest where I shall take my revenge! :) 
