@@ -2,7 +2,7 @@
 
 ![Logo MeanMax](./imgs/mean_max_logo.jpg)
 
-My solution to the *CodinGame Community Contest 01 - MeanMax* which ended up 15th out of 2512 participants. The leaderboard is available ![here](https://www.codingame.com/leaderboards/challenge/mean-max/global). The goal was to develop the best agent possible in eight days.
+My solution to the *CodinGame Community Contest 01 - MeanMax* which ended up 15th out of 2512 participants. The leaderboard is available ![here](https://www.codingame.com/leaderboards/challenge/mean-max/global). The goal was to develop the best agent possible in ten days.
 
 ## Acknowledgement & Game
 
