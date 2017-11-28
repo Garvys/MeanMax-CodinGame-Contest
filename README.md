@@ -8,7 +8,7 @@ My solution to the *CodinGame Community Contest 01 - MeanMax* which ended up 15t
 
 Thanks a lot to the game creators : Magus, pb4, reCurse and Agade! This contest has been a lot fun! 
 
-Also, congratulations to every participant who took part in the contest and more specifically to the top players.I have never seen a game where the level of the AI improved that fast in the last days! It was impressive!
+Also, congratulations to every participant who took part in the contest and more specifically to the top players. I have never seen a game where the level of the AI improved that fast in the last days! It was impressive!
 
 ## Search Algorithm
 
