@@ -61,7 +61,7 @@ Putting the rage in the evaluation allows to avoid wasting it and to increase th
 ## Dummy
 
 I decided to modelise the opponents with a *really* simple dummy that follows those rules : 
-- The reaper moves to the closest non-empty Wreck with maximum speed. If the reaper is already havesting on a wreck then the power is equals to zero.
+- The reaper moves to the closest non-empty Wreck with maximum speed. If the reaper is already havesting on a wreck then the power is equal to zero.
 - The destroyer moves to the Tanker that is the closest to the reaper of the same player with maximum speed.
 - The Doof moves to the reaper of the opponent with the closest score with maximum speed. The idea is that it is better to protect a second position than trying to block someone that has a lot more water than us.
 
